@@ -26,11 +26,11 @@ Detta betyder att vi kan köpa ett item för något öre, lägga upp det på mar
 <em>Notera att om du saknar Steam Authenticator så kan det ta några dagar innan ditt item publiceras. Kan isåfall vara värt att lägga upp några stycken av samma item och köpa dem vid behov. </em>
 
 **SEK-konto**
-4. Logga in på ditt vanliga konto, slå upp ditt item och pagen det ska finnas på. Det bör vara enkelt att hitta sin profilbild när man vet ungefär vilken sida ens listing finns på.
-5. Köp grejen (av dig själv). Ifall du får någon **intet sägande error** så kan detta bero på att du behöver ha startat spelet du köper en skin för först. Tanka och starta Dota en snabbis och fullfölj köpet sedan.
-6. Använd Revolut debit ifall du vill komma runt valuta konvertering från SEK till EUR (standardpåslag brukar vara 2-3%, inte mycket men blir en del över tid)
-7. <em> Ifall Revolut debit används: Se till att du har 4-5 EUR extra på ditt EUR-konto så att Steam kan verifiera ditt kreditkort </em>
-8. ###Literally Free Realestate
+1. Logga in på ditt vanliga konto, slå upp ditt item och pagen det ska finnas på. Det bör vara enkelt att hitta sin profilbild när man vet ungefär vilken sida ens listing finns på.
+2. Köp grejen (av dig själv). Ifall du får någon **intet sägande error** så kan detta bero på att du behöver ha startat spelet du köper en skin för först. Tanka och starta Dota en snabbis och fullfölj köpet sedan.
+3. Använd Revolut debit ifall du vill komma runt valuta konvertering från SEK till EUR (standardpåslag brukar vara 2-3%, inte mycket men blir en del över tid)
+4. <em> Ifall Revolut debit används: Se till att du har 4-5 EUR extra på ditt EUR-konto så att Steam kan verifiera ditt kreditkort </em>
+5. **Literally Free Realestate**
 
 Feel free att Pull-requesta ifall jag missat något.
 
